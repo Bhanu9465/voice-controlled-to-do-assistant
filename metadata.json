@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Bolt AI To-Do Assistant",
+  "description": "A voice-controlled to-do assistant that helps you manage tasks effortlessly. It uses AI to parse your voice commands, allowing you to add, organize, and track your tasks with priorities, categories, and progress visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
